@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(71,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(71,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(71,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(71,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(72,83): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(72,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(72,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(72,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(141,3): warning C4551: 缺少参数列表的函数调用
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(170,72): warning C4305: “参数”: 从“DWORD”到“BYTE”截断
+C:\my-win10-document\my-vs-code\testSiji\window.hpp(170,46): warning C4309: “参数”: 截断常量值
+C:\my-win10-document\my-vs-code\testSiji\main.cpp(34,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“const char *”
+C:\my-win10-document\my-vs-code\testSiji\gamedata.hpp(63): warning C4715: “get_blood_xyz_camp_value”: 不是所有的控件路径都返回值
+C:\my-win10-document\my-vs-code\testSiji\gamedata.hpp(87): warning C4172: 返回局部变量或临时变量的地址: value
+  testSiji.vcxproj -> C:\my-win10-document\my-vs-code\testSiji\Debug\testSiji.exe
